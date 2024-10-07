@@ -33,14 +33,14 @@ As a senior data analyst at the company, you've been given access to the complet
 # Dependencies
 To run this analysis, you will need the following Python packages:
 
-pandas
-matplotlib
+pandas 
+matplotlib 
 scipy
 
 # Installation
-git clone https://github.com/JGraves79/Vizualization-challenge.git
-cd Vizualization-challenge
-Open the pymaceuticals_assignment.ipynb Jupyter Notebook.
+git clone https://github.com/JGraves79/Vizualization-challenge.git 
+cd Vizualization-challenge 
+Open the pymaceuticals_assignment.ipynb Jupyter Notebook. 
 Run the cells to perform the analysis.
 
 # Results
