@@ -1,4 +1,5 @@
-## Vizualization-challenge
+## Visualization-challenge 
+
 # Python Assignment 5 for Bootcamp
 
 # Overview
@@ -38,8 +39,8 @@ matplotlib
 scipy
 
 # Installation
-git clone https://github.com/JGraves79/Vizualization-challenge.git 
-cd Vizualization-challenge 
+git clone https://github.com/JGraves79/Visualization-challenge.git 
+cd Visualization-challenge 
 Open the pymaceuticals_assignment.ipynb Jupyter Notebook. 
 Run the cells to perform the analysis.
 
